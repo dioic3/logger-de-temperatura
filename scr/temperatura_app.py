@@ -9,7 +9,7 @@ import paho.mqtt.client as mqtt
 MQTT_BROKER = "mqtt.eclipseprojects.io"
 MQTT_PORT = 1883
 MQTT_TOPIC = "sensor/temperatura"
-LOG_FILE = "temperatura_log.txt"
+LOG_FILE = "../logs/temperatura_log.txt"
 
 class TemperaturaApp:
     def __init__(self, root):

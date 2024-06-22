@@ -1,1 +1,3 @@
-*.txt
+logs/temperatura_log.txt
+__pycache__/
+*.pyc

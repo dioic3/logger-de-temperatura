@@ -5,7 +5,7 @@ import json
 MQTT_BROKER = "mqtt.eclipseprojects.io"
 MQTT_PORT = 1883
 MQTT_TOPIC = "sensor/temperatura"
-LOG_FILE = "temperatura_log.txt"
+LOG_FILE = "../logs/temperatura_log.txt"
 
 # Callback quando uma mensagem é recebida
 def on_message(client, userdata, message):
