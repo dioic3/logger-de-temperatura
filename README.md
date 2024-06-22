@@ -1,3 +1,4 @@
+![C115](img/c115.png)
 # Projeto de Logger de Temperatura
 
 Este projeto consiste em uma aplicação de log de temperatura utilizando uma interface gráfica com Tkinter e comunicação MQTT para publicar e subscrever dados de temperatura.
